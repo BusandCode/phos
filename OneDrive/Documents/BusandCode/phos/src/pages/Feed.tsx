@@ -1,6 +1,6 @@
-import React, { useState } from 'react'
+import { useState } from 'react'
 import { Card, CardContent } from '@/components/ui/card'
-import { MapPin, Clock, SlidersHorizontal, Search } from 'lucide-react'
+import { MapPin, Clock,Search } from 'lucide-react'
 import Navbar from '@/components/layout/Navbar'
 import BottomNav from '@/components/layout/BottomNav'
 
